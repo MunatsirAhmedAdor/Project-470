@@ -1,5 +1,5 @@
 # Donation-for-underprivileged-children
-# CSE471 PROJECT
+# CSE470 PROJECT
 # Munatsir Ahmed Ador 20101259
 # Rushayed Ali Faiaz 21301717
 # Sameer Sadman Chowdhury   23341118
